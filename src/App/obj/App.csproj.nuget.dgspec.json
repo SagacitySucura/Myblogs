@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\blogs\\Myblogs\\src\\App\\App.csproj": {}
+    "G:\\Myblogs\\src\\App\\App.csproj": {}
   },
   "projects": {
-    "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj": {
+    "G:\\Myblogs\\plugins\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj",
+        "projectUniqueName": "G:\\Myblogs\\plugins\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj",
+        "projectPath": "G:\\Myblogs\\plugins\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Uomi\\.nuget\\packages\\",
-        "outputPath": "G:\\blogs\\Myblogs\\plugins\\Common\\obj\\",
+        "outputPath": "G:\\Myblogs\\plugins\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj": {
-                "projectPath": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj"
+              "G:\\Myblogs\\src\\Core\\Core.csproj": {
+                "projectPath": "G:\\Myblogs\\src\\Core\\Core.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "G:\\blogs\\Myblogs\\src\\App\\App.csproj": {
+    "G:\\Myblogs\\src\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\blogs\\Myblogs\\src\\App\\App.csproj",
+        "projectUniqueName": "G:\\Myblogs\\src\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "G:\\blogs\\Myblogs\\src\\App\\App.csproj",
+        "projectPath": "G:\\Myblogs\\src\\App\\App.csproj",
         "packagesPath": "C:\\Users\\Uomi\\.nuget\\packages\\",
-        "outputPath": "G:\\blogs\\Myblogs\\src\\App\\obj\\",
+        "outputPath": "G:\\Myblogs\\src\\App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -100,11 +100,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj": {
-                "projectPath": "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj"
+              "G:\\Myblogs\\plugins\\Common\\Common.csproj": {
+                "projectPath": "G:\\Myblogs\\plugins\\Common\\Common.csproj"
               },
-              "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj": {
-                "projectPath": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj"
+              "G:\\Myblogs\\src\\Core\\Core.csproj": {
+                "projectPath": "G:\\Myblogs\\src\\Core\\Core.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj": {
+    "G:\\Myblogs\\src\\Core\\Core.csproj": {
       "version": "2.4.0",
       "restore": {
-        "projectUniqueName": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj",
+        "projectUniqueName": "G:\\Myblogs\\src\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj",
+        "projectPath": "G:\\Myblogs\\src\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Uomi\\.nuget\\packages\\",
-        "outputPath": "G:\\blogs\\Myblogs\\src\\Core\\obj\\",
+        "outputPath": "G:\\Myblogs\\src\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

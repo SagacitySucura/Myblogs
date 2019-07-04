@@ -29,6 +29,7 @@ namespace App.Pages.Account
         public LoginModel(SignInManager<AppUser> sm)
         {
             _sm = sm;
+            Thread.Sleep(10000);
         }
 
         public void OnGet()

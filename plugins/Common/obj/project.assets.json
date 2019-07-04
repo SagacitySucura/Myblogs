@@ -12869,11 +12869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj",
+      "projectUniqueName": "G:\\Myblogs\\plugins\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "G:\\blogs\\Myblogs\\plugins\\Common\\Common.csproj",
+      "projectPath": "G:\\Myblogs\\plugins\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Uomi\\.nuget\\packages\\",
-      "outputPath": "G:\\blogs\\Myblogs\\plugins\\Common\\obj\\",
+      "outputPath": "G:\\Myblogs\\plugins\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12892,8 +12892,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj": {
-              "projectPath": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj"
+            "G:\\Myblogs\\src\\Core\\Core.csproj": {
+              "projectPath": "G:\\Myblogs\\src\\Core\\Core.csproj"
             }
           }
         }

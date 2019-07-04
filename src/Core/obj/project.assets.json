@@ -13718,11 +13718,11 @@
   "project": {
     "version": "2.4.0",
     "restore": {
-      "projectUniqueName": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj",
+      "projectUniqueName": "G:\\Myblogs\\src\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "G:\\blogs\\Myblogs\\src\\Core\\Core.csproj",
+      "projectPath": "G:\\Myblogs\\src\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Uomi\\.nuget\\packages\\",
-      "outputPath": "G:\\blogs\\Myblogs\\src\\Core\\obj\\",
+      "outputPath": "G:\\Myblogs\\src\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
